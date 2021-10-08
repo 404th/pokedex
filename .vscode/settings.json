@@ -1,0 +1,5 @@
+{
+    "editor.formatOnSave": true,
+    "diffEditor.maxComputationTime": 10,
+    "files.autoSave": "onFocusChange"
+}

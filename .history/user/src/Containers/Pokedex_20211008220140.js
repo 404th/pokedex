@@ -1,0 +1,6 @@
+
+
+
+function Pokedex () {
+    return 
+}
